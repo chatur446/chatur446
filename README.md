@@ -8,7 +8,7 @@
   <a href="https://myportfolio0618.netlify.app/">🌐 Portfolio</a> •
   <a href="mailto:ayushchaturvedi1305@gmail.com">📧 Email</a> •
   <a href="https://github.com/chatur446">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR_HANDLE">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ayush-chaturvedi73/">💼 LinkedIn</a>
 </p>
 
 ---
