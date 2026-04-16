@@ -4,12 +4,10 @@
   <em>AI & Data Science undergrad · Full Stack Dev · Building things that actually matter</em>
 </p>
 
-<p align="center">
-  <a href="https://myportfolio0618.netlify.app/">🌐 Portfolio</a> •
-  <a href="mailto:ayushchaturvedi1305@gmail.com">📧 Email</a> •
-  <a href="https://github.com/chatur446">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/ayush-chaturvedi73/">💼 LinkedIn</a>
-</p>
+- 🌐 **Portfolio** → <a href="https://myportfolio0618.netlify.app/" target="_blank">myportfolio0618.netlify.app</a>
+- 📧 **Email** → ayushchaturvedi1305@gmail.com
+- 📍 **Based in** Bengaluru, India
+- 💼 **LinkedIn** → <a href="https://linkedin.com/in/YOUR_HANDLE" target="_blank">linkedin.com/in/YOUR_HANDLE</a>
 
 ---
 
